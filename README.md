@@ -12,9 +12,9 @@ Video Reference:
 [![Alt text](https://img.youtube.com/vi/dCGB8QQdQw0/0.jpg)](https://www.youtube.com/watch?v=dCGB8QQdQw0)
 
 
-### Project video
+### Challenge video
 
-[![Alt text](https://img.youtube.com/vi/v=kpv44MqVoD8/0.jpg)](https://www.youtube.com/watch?v=v=kpv44MqVoD8)
+[![Alt text](https://img.youtube.com/vi/kpv44MqVoD8/0.jpg)](https://www.youtube.com/watch?v=kpv44MqVoD8)
 
 
 
