@@ -31,20 +31,20 @@ Test on Images
 
 
 
-# solid White Curve Lanes Drawn
+# Solid White Curve Lanes Drawn
 
 ![alt text][image1]
 
-# solid White Right Lanes Drawn
+# Solid White Right Lanes Drawn
 ![alt text][image2]
 
-# solid Yellow Curve Lanes Drawn
+# Solid Yellow Curve Lanes Drawn
 ![alt text][image3]
 
-# white Car Lane Switch Lanes Drawn
+# White Car Lane Switch Lanes Drawn
 ![alt text][image4]
 
-solid Yellow Left Lanes Drawn
+# Solid Yellow Left Lanes Drawn
 ![alt text][image5]
 
 
